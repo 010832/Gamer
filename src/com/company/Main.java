@@ -9,6 +9,7 @@ public class Main {
         print("Hit or miss, I guess they never miss huh");
         print("Nya, colonel");
         print("Yeehaw pardner");
+        print("Shit or miss");
             }
         }
     }
